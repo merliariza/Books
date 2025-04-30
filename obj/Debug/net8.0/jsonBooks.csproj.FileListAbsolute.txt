@@ -1,0 +1,15 @@
+/home/camper/Descargas/Books/Books/bin/Debug/net8.0/jsonBooks
+/home/camper/Descargas/Books/Books/bin/Debug/net8.0/jsonBooks.deps.json
+/home/camper/Descargas/Books/Books/bin/Debug/net8.0/jsonBooks.runtimeconfig.json
+/home/camper/Descargas/Books/Books/bin/Debug/net8.0/jsonBooks.dll
+/home/camper/Descargas/Books/Books/bin/Debug/net8.0/jsonBooks.pdb
+/home/camper/Descargas/Books/Books/obj/Debug/net8.0/jsonBooks.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/Descargas/Books/Books/obj/Debug/net8.0/jsonBooks.AssemblyInfoInputs.cache
+/home/camper/Descargas/Books/Books/obj/Debug/net8.0/jsonBooks.AssemblyInfo.cs
+/home/camper/Descargas/Books/Books/obj/Debug/net8.0/jsonBooks.csproj.CoreCompileInputs.cache
+/home/camper/Descargas/Books/Books/obj/Debug/net8.0/jsonBooks.sourcelink.json
+/home/camper/Descargas/Books/Books/obj/Debug/net8.0/jsonBooks.dll
+/home/camper/Descargas/Books/Books/obj/Debug/net8.0/refint/jsonBooks.dll
+/home/camper/Descargas/Books/Books/obj/Debug/net8.0/jsonBooks.pdb
+/home/camper/Descargas/Books/Books/obj/Debug/net8.0/jsonBooks.genruntimeconfig.cache
+/home/camper/Descargas/Books/Books/obj/Debug/net8.0/ref/jsonBooks.dll

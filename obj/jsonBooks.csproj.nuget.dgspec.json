@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/camper/practiceJson/jsonBooks/jsonBooks.csproj": {}
+    "/home/camper/Descargas/Books/Books/jsonBooks.csproj": {}
   },
   "projects": {
-    "/home/camper/practiceJson/jsonBooks/jsonBooks.csproj": {
+    "/home/camper/Descargas/Books/Books/jsonBooks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/camper/practiceJson/jsonBooks/jsonBooks.csproj",
+        "projectUniqueName": "/home/camper/Descargas/Books/Books/jsonBooks.csproj",
         "projectName": "jsonBooks",
-        "projectPath": "/home/camper/practiceJson/jsonBooks/jsonBooks.csproj",
+        "projectPath": "/home/camper/Descargas/Books/Books/jsonBooks.csproj",
         "packagesPath": "/home/camper/.nuget/packages/",
-        "outputPath": "/home/camper/practiceJson/jsonBooks/obj/",
+        "outputPath": "/home/camper/Descargas/Books/Books/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/camper/.nuget/NuGet/NuGet.Config"
